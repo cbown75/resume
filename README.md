@@ -1,7 +1,4 @@
 Christopher W. Bown  
-`Phoenix, AZ 85022`  
-`Phone: 602-738-7547`   
-`Email: cbown75@gmail.com`
 
 ## TECHNOLOGIES AND SKILLS
 
