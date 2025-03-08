@@ -119,11 +119,7 @@ Senior DevOps Engineer with 16+ years of experience designing, implementing, and
 
 ### **AD FORESIGHT, Phoenix, AZ**
 **VP of Technology / Director of Information Systems** | August 2000 - October 2008
-
-- Led technology direction and managed teams of 20+ developers and 5 support staff.
-- Designed high-traffic custom blogging system supporting 5,000+ blogs with 100,000+ daily visitors.
-- Modernized hosting platform, improving availability while reducing costs by 30-60%.
-- **Technologies:** VB.Net, C#, WMI, Windows Server, MSSQL, IIS.
+**Technologies:** VB.Net, C#, WMI, Windows Server, MSSQL, IIS.
 
 ---
 
@@ -137,9 +133,3 @@ DeVry University, Phoenix, AZ (2000-2002)
 ## **CERTIFICATIONS**
 
 Kubernetes Certified Administrator (CKA) - In progress, expected completion July 2025.
-
----
-
-## **PERSONAL INTERESTS**
-
-Woodworking, Playing guitar.
