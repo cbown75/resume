@@ -1,8 +1,7 @@
 # **CHRISTOPHER W. BOWN**
-
 ## Senior DevOps Engineer / Technical Leader
 
-Phoenix, AZ 85022 | 602-738-7547 | cbown75@gmail.com  
+Phoenix, AZ 85022 | cbown75@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/christopherwbown/) | [GitHub](https://github.com/cbown75)
 
 ---
@@ -29,35 +28,32 @@ Senior DevOps Engineer with 16+ years of experience designing, implementing, and
 ## **TECHNICAL SKILLS**
 
 | **Technology** | **Prof/Yrs** | **Technology** | **Prof/Yrs** | **Technology** | **Prof/Yrs** |
-| -------------- | :----------: | -------------- | :----------: | -------------- | :----------: |
-| AWS            |  ★★★★☆ / 8+  | Azure DevOps   |  ★★★★☆ / 7+  | PowerShell     | ★★★☆☆ / 16+  |
-| Azure          |  ★★★★☆ / 9+  | Jenkins        | ★★★☆☆ / 12+  | Bash           | ★★★☆☆ / 16+  |
-| Kubernetes     |  ★★★★☆ / 6+  | GitHub Actions |  ★★★☆☆ / 5+  | Python         |  ★★★☆☆ / 5+  |
-| Docker         |  ★★★☆☆ / 6+  | FluxCD         |  ★★★★☆ / 3+  | C#             |  ★★☆☆☆ / 8+  |
-| Terraform      |  ★★★★☆ / 4+  | Splunk         | ★★★★☆ / 10+  | MSSQL          | ★★★★☆ / 12+  |
-| HELM           |  ★★★☆☆ / 3+  | Cloudflare     | ★★★★☆ / 10+  | PostgreSQL     |  ★★★☆☆ / 5+  |
-| Datadog        |  ★★★☆☆ / 5+  | Linux/Windows  | ★★★★☆ / 14+  | MySQL          |  ★★★☆☆ / 7+  |
+|----------------|:------------:|----------------|:------------:|----------------|:------------:|
+| AWS            | ★★★★☆ / 8+   | Azure DevOps   | ★★★★☆ / 7+   | PowerShell     | ★★★☆☆ / 16+  |
+| Azure          | ★★★★☆ / 9+   | Jenkins        | ★★★☆☆ / 12+  | Bash           | ★★★☆☆ / 16+  |
+| Kubernetes     | ★★★★☆ / 6+   | GitHub Actions | ★★★☆☆ / 5+   | Python         | ★★★☆☆ / 5+   |
+| Docker         | ★★★☆☆ / 6+   | FluxCD         | ★★★★☆ / 3+   | C#             | ★★☆☆☆ / 8+   |
+| Terraform      | ★★★★☆ / 4+   | Splunk         | ★★★★☆ / 10+  | MSSQL          | ★★★★☆ / 12+  |
+| HELM           | ★★★☆☆ / 3+   | Cloudflare     | ★★★★☆ / 10+  | PostgreSQL     | ★★★☆☆ / 5+   |
+| Datadog        | ★★★☆☆ / 5+   | Linux/Windows  | ★★★★☆ / 14+  | MySQL          | ★★★☆☆ / 7+   |
 
-_Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert_
+*Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert*
 
 ---
 
 ## **KEY PROJECTS**
 
 **Large-Scale Kubernetes Migration | Revolution Parts**
-
 - **Challenge:** Aging Rancher-based Kubernetes infrastructure causing stability issues and operational overhead.
 - **Solution:** Designed and led migration of all workloads to AWS EKS.
 - **Impact:** Reduced kubernetes related incidents by 90%, improved application performance by roughly 25%.
 
 **Enterprise CI/CD Transformation | Carvana**
-
 - **Challenge:** Slow, manual deployment process and blocking branching strategy that limited company growth with only 45 annual deployments.
 - **Solution:** Architected complete CI/CD pipeline with Git and Azure DevOps, implemented infrastructure as code, and designed blue-green deployment strategy.
 - **Impact:** Scaled deployment frequency from 45 to 8,896 over 4 years while maintaining 99.9% uptime, enabling rapid business expansion and allowing development teams to increase velocity and deploy to lower environments, test, deploy to production and rollback as needed.
 
 **Cloud Cost Optimization | Carvana**
-
 - **Challenge:** Rapidly increasing cloud costs threatening profitability as company scaled.
 - **Solution:** Implemented comprehensive cloud governance, right-sizing strategy, reserved instance purchasing, and automated resource reporting.
 - **Impact:** Reduced annual cloud spend by $7.2M over 2020 and 2021 without impacting performance or reliability, funding additional strategic initiatives.
@@ -67,7 +63,6 @@ _Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert
 ## **PROFESSIONAL EXPERIENCE**
 
 ### **REVOLUTION PARTS, Tempe, AZ**
-
 **Team Lead, Cloud Operations** | May 2024 - Present
 
 - Lead AWS infrastructure operations including EKS, EC2, S3 and networking components for a SaaS platform.
@@ -79,7 +74,6 @@ _Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert
 - **Technologies:** AWS (EKS, EC2, S3, Route53), Terraform, Spacelift, Cloudflare, Datadog, PagerDuty, HELM, GitHub Actions, Jenkins, FluxCD, Sealed Secrets, Python, Bash, Linux, Aurora PostgreSQL, MySQL, NGINX, Apache.
 
 ### **UPDATER, Remote**
-
 **Senior DevOps Engineer II** | February 2022 - May 2024
 
 - Migrated business-critical applications from VMware in two datacenters to AWS EKS with zero service disruption.
@@ -90,7 +84,6 @@ _Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert
 - **Technologies:** AWS (EKS, S3, RDS), Terraform, Spacelift, Kubernetes, HELM, FluxCD, Argo Workflow/Events, GitHub Actions, Datadog, Powershell, Bash, Linux, Windows, MSSQL, PostgreSQL, NGINX, IIS, VMWare.
 
 ### **CARVANA, Phoenix, AZ**
-
 **Principal Security Engineer** | July 2021 - February 2022
 
 - Selected security tools and developed a plan to integrate them with existing DevOps/CI/CD culture.
@@ -113,7 +106,6 @@ _Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert
 - **Technologies:** Azure, AKS, Docker, ARM, Cloudflare, AppDynamics, App Insights, Datadog, Azure DevOps, Splunk, VictorOps, Windows, Powershell, Python, Bash, Linux, NGINX, IIS.
 
 ### **AMERICAN EXPRESS, Phoenix, AZ**
-
 **Lead Programmer Analyst** | October 2008 - November 2015
 
 - Developed and supported enterprise-scale build systems handling 300,000+ builds monthly.
@@ -126,7 +118,6 @@ _Proficiency: ★ Basic, ★★ Working, ★★★ Advanced, ★★★★ Expert
 - **Technologies:** Jenkins, Maven, Nexus, Git, Splunk, Veracode, AppScan, .NET Frameworks, Powershell, Bash, RHEL, Java, Subversion, VMWare, Apache.
 
 ### **AD FORESIGHT, Phoenix, AZ**
-
 **VP of Technology / Director of Information Systems** | August 2000 - October 2008
 
 - Led technology direction and managed teams of 20+ developers and 5 support staff.
